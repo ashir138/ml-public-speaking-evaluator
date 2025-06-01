@@ -50,6 +50,12 @@ An intelligent web application that evaluates public speaking performance using 
 
 ---
 
+## 📬 Feedback / Contributions
+Feel free to open issues or PRs to improve the project!
+Want to deploy it live or add mic input? Let’s collaborate.
+
+---
+
 ## 📦 Installation
 
 ```bash
@@ -58,9 +64,4 @@ cd ml-public-speaking-evaluator
 pip install -r requirements.txt
 streamlit run app.py
 
----
-
-## 📬 Feedback / Contributions
-Feel free to open issues or PRs to improve the project!
-Want to deploy it live or add mic input? Let’s collaborate.
 
