@@ -1,0 +1,8 @@
+streamlit
+librosa
+pydub
+speechrecognition
+matplotlib
+numpy
+scipy
+tensorflow
