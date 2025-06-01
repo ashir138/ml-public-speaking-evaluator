@@ -46,7 +46,7 @@ An intelligent web application that evaluates public speaking performance using 
 
 ## 📸 Visualization
 
-
+LinkedIn : `https://www.linkedin.com/posts/ali-ashir-3bb590257_aliashir-machinelearning-publicspeaking-activity-7335010123599216641-ALKs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9Ehz8B3F06Xk6O3RVLyYiiMwgY_wGWhSo`
 
 ---
 
